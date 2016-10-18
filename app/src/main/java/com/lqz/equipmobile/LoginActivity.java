@@ -336,7 +336,8 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
             showProgress(false);
 
             if (success) {
-                Toast toast = Toast.makeText(LoginActivity.this, "@String/msg_login_success", Toast.LENGTH_SHORT);
+                String msg = (String) LoginActivity.this.getResources().getString(R.string.msg_login_success);
+                Toast toast = Toast.makeText(LoginActivity.this, msg, Toast.LENGTH_SHORT);
                 toast.show();
                 Intent intent = new Intent(LoginActivity.this, MainActivity.class);
                 startActivity(intent);

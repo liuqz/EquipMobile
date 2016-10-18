@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name" translatable="false">邢钢设备管理</string>
+
+    <string name="dummy_button" translatable="false">开始</string>
+    <string name="dummy_content" translatable="false">DUMMY\nCONTENT</string>
+    <string name="title_activity_login" translatable="false">登录</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email" translatable="false">邮箱</string>
+    <string name="prompt_password" translatable="false">密码 (可选)</string>
+    <string name="action_sign_in" translatable="false">登录或注册</string>
+    <string name="action_sign_in_short" translatable="false">登录</string>
+    <string name="error_invalid_email" translatable="false">邮箱地址不可用</string>
+    <string name="error_invalid_password" translatable="false">密码太短</string>
+    <string name="error_incorrect_password" translatable="false">密码不正确</string>
+    <string name="error_field_required" translatable="false">必填</string>
+    <string name="permission_rationale" translatable="false">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="logo_title" translatable="false">邢钢设备管理系统</string>
+    <string name="prompt_loginname" translatable="false">登录名称</string>
+    <string name="msg_login_success" translatable="false">您已经成功登录！</string>
+    <string name="msg_login_error" translatable="false">登录失败！</string>
+</resources>

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name" translatable="false">XG EquipMobile</string>
+
+    <string name="dummy_button" translatable="false">Dummy Button</string>
+    <string name="dummy_content" translatable="false">DUMMY\nCONTENT</string>
+    <string name="title_activity_login" translatable="false">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email" translatable="false">Email</string>
+    <string name="prompt_password" translatable="false">Password (optional)</string>
+    <string name="action_sign_in" translatable="false">Sign in or register</string>
+    <string name="action_sign_in_short" translatable="false">Sign in</string>
+    <string name="error_invalid_email" translatable="false">This email address is invalid</string>
+    <string name="error_invalid_password" translatable="false">This password is too short</string>
+    <string name="error_incorrect_password" translatable="false">This password is incorrect</string>
+    <string name="error_field_required" translatable="false">This field is required</string>
+    <string name="permission_rationale" translatable="false">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="logo_title" translatable="false">XG EquipManage</string>
+    <string name="prompt_loginname" translatable="false">Login Name</string>
+    <string name="msg_login_success" translatable="false">You have login successful!</string>
+    <string name="msg_login_error" translatable="false">Access Failed!</string>
+</resources>
